@@ -1,0 +1,203 @@
+{
+  "chats": [
+    {
+      "id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "title": "About Digital Friend",
+      "created_at": "2026-06-30T04:20:03.284Z"
+    },
+    {
+      "id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "title": "Search Chat",
+      "created_at": "2026-06-30T04:48:55.845Z"
+    },
+    {
+      "id": "d5957202-f237-4917-a4f0-7abc5f3482da",
+      "title": "New Chat",
+      "created_at": "2026-06-30T04:50:53.770Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "cae39ea5-ddc7-4d62-ae4a-c54c926022f7",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "user",
+      "content": "hello",
+      "created_at": "2026-06-30T04:20:03.299Z"
+    },
+    {
+      "id": "17222f83-956a-47ec-9b44-e539dfa694f4",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "assistant",
+      "content": "*(API Connection Error: models/gemini-1.5-flash is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.. Showing local response instead)*\n\nHello! Welcome to Digital Friend. I'm your virtual support assistant. How can I help you with your digital marketing, design, or development needs today?",
+      "created_at": "2026-06-30T04:20:03.826Z"
+    },
+    {
+      "id": "44bd1b3e-5a32-436e-b34a-0c7f806b3c52",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "user",
+      "content": "helli ",
+      "created_at": "2026-06-30T04:24:59.348Z"
+    },
+    {
+      "id": "21cf0733-4d17-485b-bae2-8a68327fdc41",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "assistant",
+      "content": "Hello! Welcome to Digital Friend. How can I assist you today? Please let me know how we can help with your digital needs!",
+      "created_at": "2026-06-30T04:25:12.289Z"
+    },
+    {
+      "id": "fa3e7c3a-0a94-4afb-b46e-e79e5ea5c2ec",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "user",
+      "content": "canyou  tell me what is the digital friend is about ",
+      "created_at": "2026-06-30T04:25:40.668Z"
+    },
+    {
+      "id": "7ccf8ae1-a50d-4de2-b2ad-f4b33984dcd2",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "assistant",
+      "content": "Hello! I would be delighted to tell you more about us",
+      "created_at": "2026-06-30T04:25:43.443Z"
+    },
+    {
+      "id": "8787f490-d78f-451f-a052-f4e5586087b0",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "user",
+      "content": "ok tell",
+      "created_at": "2026-06-30T04:25:51.375Z"
+    },
+    {
+      "id": "c8f3df38-e5b9-4a64-a3c9-5744a4ef42a6",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "assistant",
+      "content": ":**\n    \"At Digital Friend, we are your",
+      "created_at": "2026-06-30T04:25:53.493Z"
+    },
+    {
+      "id": "778cdbbe-bd58-4581-ba05-b40af33e6efb",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "user",
+      "content": "iam getting less response giv eem more ",
+      "created_at": "2026-06-30T04:26:08.086Z"
+    },
+    {
+      "id": "b9f89d81-3c4f-4005-9d00-8179d985cfd9",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "assistant",
+      "content": " partner—we handle the technology and marketing so you can",
+      "created_at": "2026-06-30T04:26:10.224Z"
+    },
+    {
+      "id": "a09bdecb-242a-4fcf-8c70-168e70247b62",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "user",
+      "content": "more about digital friend ",
+      "created_at": "2026-06-30T04:29:11.024Z"
+    },
+    {
+      "id": "c72978ce-56a2-4196-b29c-9fedfca32fbd",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "assistant",
+      "content": "Hello! I would be delighted to share more about us. \n\nDigital Friend is a full-service digital agency dedicated to helping businesses grow and succeed online. We act as your reliable, friendly partner for all things tech and creative. \n\nOur main services include:\n* **Web Design & Development:** Crafting beautiful, user-friendly websites.\n* **Digital Marketing:** Boosting your online presence through SEO, social media, and ads.\n* **Branding & Graphic Design:** Creating unique visual identities and logos.\n* **IT & Tech Support:** Keeping your digital systems running smoothly.\n\nWhether you are starting a new business or looking to scale your existing brand, we simplify the digital world so you can focus on what you do best. \n\nHow can we help you with your project today?",
+      "created_at": "2026-06-30T04:29:16.140Z"
+    },
+    {
+      "id": "d431f841-fd68-467e-9e8d-8a12fe3c4374",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "user",
+      "content": "help me in web design and development ",
+      "created_at": "2026-06-30T04:29:38.708Z"
+    },
+    {
+      "id": "2909d20e-3eba-4454-b77b-4f412703195d",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "assistant",
+      "content": "We would love to help you build your dream website! At Digital Friend, we specialize in creating stunning, responsive, and user-friendly websites tailored specifically to your business goals. \n\nWhether you need a simple landing page, a professional corporate site, or a fully functional e-commerce store, our development team is ready to bring your vision to life. We ensure all our websites are fast, secure, and optimized for mobile devices.\n\nTo get started, could you tell me a little bit about your business and what you would like your website to achieve? I can then guide you through our next steps!",
+      "created_at": "2026-06-30T04:29:41.921Z"
+    },
+    {
+      "id": "fe64210e-c40a-4839-a82f-6fd111a5bc4c",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "user",
+      "content": "hello",
+      "created_at": "2026-06-30T04:39:56.119Z"
+    },
+    {
+      "id": "4ff49b2f-8510-4061-a80c-a9d27f86ad93",
+      "chat_id": "7d9a4521-85fc-4401-b36e-f3080575c152",
+      "sender": "assistant",
+      "content": "*(API Connection Error: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.. Showing local response instead)*\n\nHello! Welcome to Digital Friend. I'm your virtual support assistant. How can I help you with your digital marketing, design, or development needs today?",
+      "created_at": "2026-06-30T04:39:56.689Z"
+    },
+    {
+      "id": "7b728ba1-964c-4fa1-b552-68ab4ab29c9e",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "user",
+      "content": "search engine ",
+      "created_at": "2026-06-30T04:49:20.516Z"
+    },
+    {
+      "id": "40012d12-a1b4-450c-af8a-26ee85dba21c",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "assistant",
+      "content": "Hello! Thank you for reaching out to Digital Friend. \n\nHow can I assist you with search engines today? Whether you are looking to improve your website's visibility on search engines (SEO), need help setting up search tools, or simply want tips on how to search the web more effectively, we are here to help! \n\nPlease reply with a few more details about what you need, and I will be happy to guide you. Have a wonderful day!",
+      "created_at": "2026-06-30T04:49:24.901Z"
+    },
+    {
+      "id": "89232b99-271d-454e-acef-7150b23ed5ad",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "user",
+      "content": "what this chatbot is about ",
+      "created_at": "2026-06-30T04:52:57.026Z"
+    },
+    {
+      "id": "01180b27-4e30-40ed-a62d-fd39cdeadfff",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "assistant",
+      "content": "Digital Friend is a premier digital marketing, web design, and branding agency based in Ahmedabad, Gujarat. I specialize in helping small-to-medium businesses (SMEs) and fintech startups scale their online presence, enhance brand engagement, and drive revenue through technology. Let me know if you have questions about my services!",
+      "created_at": "2026-06-30T04:52:57.033Z"
+    },
+    {
+      "id": "77b9eb7a-9f5d-4369-801e-b11a1b84f268",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "user",
+      "content": "ok ",
+      "created_at": "2026-06-30T04:53:08.650Z"
+    },
+    {
+      "id": "ffcaff80-d0ab-4fb5-90fc-6ce81353a6e6",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "assistant",
+      "content": "Thank you for contacting Digital Friend support. I'm here to assist you with my web development, digital marketing, and design services. Could you please provide a few more details about your inquiry so I can direct you to the right solution?",
+      "created_at": "2026-06-30T04:53:08.654Z"
+    },
+    {
+      "id": "86ee5d12-555f-4b6e-b8e2-2ff9552d27ee",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "user",
+      "content": "thank you ",
+      "created_at": "2026-06-30T04:55:39.069Z"
+    },
+    {
+      "id": "ae78a2e3-577e-4179-8e13-96be1a2d3c34",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "assistant",
+      "content": "You are very welcome! It's my pleasure to help. If you have any other questions about Digital Friend's services or need anything else, feel free to ask. Have a wonderful day!",
+      "created_at": "2026-06-30T04:55:39.075Z"
+    },
+    {
+      "id": "8c16447c-418a-418f-9200-893a60376196",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "user",
+      "content": "will you answer any query of user or only few ",
+      "created_at": "2026-06-30T04:57:47.165Z"
+    },
+    {
+      "id": "6ef6515d-e82e-41fe-9b85-abf13745639a",
+      "chat_id": "07f52185-72d3-4699-a021-476cd4a9ef16",
+      "sender": "assistant",
+      "content": "Thank you for contacting Digital Friend support. I'm here to assist you with my web development, digital marketing, and design services. Could you please provide a few more details about your inquiry so I can direct you to the right solution?",
+      "created_at": "2026-06-30T04:57:47.170Z"
+    }
+  ]
+}
